@@ -1,0 +1,12 @@
+
+.cache/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/simple-react.iml
+.idea/vcs.xml
+
+dist/
+node_modules/
+
+
